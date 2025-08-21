@@ -86,7 +86,7 @@ https://github.com/TEAM-LOGMATE/LOGMATE-FRONT
 ### AI
 https://github.com/TEAM-LOGMATE/LOGMATE-AI
 
-## 🎨 UX Strategy
+## 🖍️ UX Strategy
 화면 설계에 공통적으로 적용된 원칙입니다.
 
 원칙 1. 다크 모드를 기본 지원해야 한다.
@@ -99,7 +99,7 @@ https://github.com/TEAM-LOGMATE/LOGMATE-AI
 - 불필요한 버튼과 복잡한 요소를 최소화하며 핵심 기능을 명확히 사용할 수 있도록 합니다.
 
   
-## BI
+## 🚀 BI
 Logmate는 #간편한 #직관적인 #부담없는 키워드를 중심으로 하여 로그 분석이 필요한 누구든지 사용자가 될 수 있도록 기획 및 개발되었습니다.
 
 ### 스타트업, 중소기업 팀
