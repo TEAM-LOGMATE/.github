@@ -12,7 +12,9 @@ LogMate는 간단한 설정만으로 이용 가능하며, 누구나 손쉽게 �
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 강찬욱 | 장연우 | 강찬욱 | 강찬욱 | 정주연 | 양승원 | 양승원 |
 
-
+## 📚 Documentation
+- [SRS (Software Requirements Specification)](./docs/SRS_LogMate.pdf)
+- [SDS (Software Design Specification)](./docs/SDS_LogMate.pdf)
 
 ## ✅ Background
 
